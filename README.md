@@ -1,4 +1,16 @@
-<h1 align="center">Hi 👋, I'm Carlos Torres!</h1>
+<h1 align="center">Hi 👋, I'm Carlos Torres</h1>
+<br>
+
+- 🔭 I’m currently working on **Covalto Bank as Data Engineering**
+
+- 🌱 I’m currently learning **PySpark & Tensorflow**
+
+<!-- - 👨‍💻 You can visit my portfolio at [https://ctxs.github.io](https://ctxs.github.io) -->
+
+- 💬 Ask me about **JavaScript, Python, React, Flutter, Devops**
+
+- 📫 How to reach me **ctorresmdz@gmail.com**
+
 <br>
 
 <p align = "center">
