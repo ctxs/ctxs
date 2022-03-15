@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Torres</h1>
 <br>
 
-- 🔭 I’m currently working on **Covalto Bank as Data Engineering**
+- 🔭 I’m currently working on **Covalto Bank as Data Engineer**
 
 - 🌱 I’m currently learning **PySpark & Tensorflow**
 
