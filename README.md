@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Torres</h1>
 <br>
 
-- 🔭 I’m currently working on **Covalto Bank as Data Engineer**
+- 🔭 I’m currently working on **Aplazo as Data Engineer**
 
-- 🌱 I’m currently learning **PySpark & Tensorflow**
+- 🌱 I’m currently learning **GCP Kunfu**
 
 <!-- - 👨‍💻 You can visit my portfolio at [https://ctxs.github.io](https://ctxs.github.io) -->
 
