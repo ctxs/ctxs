@@ -13,7 +13,14 @@
 
 <br>
 
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ctxs&theme=radical)
+![Stats](https://github-readme-stats-nine-lac-93.vercel.app/api?username=ctxs&show_icons=true&show=reviews,prs_merged&theme=aura_dark&hide_border=true)
+
+![Top langs](https://github-readme-stats-nine-lac-93.vercel.app/api/top-langs?username=ctxs&layout=donut&langs_count=6&theme=aura_dark&hide_border=true)
+
+![Streak](https://github-readme-stats-nine-lac-93.vercel.app/api/streak?username=ctxs&theme=aura_dark&hide_border=true)
+
+
+
 
 <br>
 
