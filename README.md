@@ -12,7 +12,9 @@
 - 📫 How to reach me **ctorresmdz@gmail.com**
 
 <br>
+
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ctxs&theme=radical)
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
