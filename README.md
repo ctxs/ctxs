@@ -3,19 +3,20 @@
 
 - 🔭 I’m currently working on **Aplazo as Data Engineer**
 
-- 🌱 I’m currently learning **GCP Kunfu**
+- 🌱 I’m currently learning **AI Agents Kunfu**
 
 <!-- - 👨‍💻 You can visit my portfolio at [https://ctxs.github.io](https://ctxs.github.io) -->
 
-- 💬 Ask me about **JavaScript, Python, React, Flutter, Devops**
+- 💬 Ask me about **LLM's, Code, Infra, Devops**
 
 - 📫 How to reach me **ctorresmdz@gmail.com**
 
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctxs&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" height="165em" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctxs&langs_count=8&layout=compact" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ctxs&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ctxs&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ctxs&layout=compact&theme=radical)
 </p>
 
 <br>
