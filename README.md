@@ -13,11 +13,11 @@
 
 <br>
 
-<p align = "center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ctxs&show_icons=true&theme=radical)
+
+  
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ctxs&theme=radical)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ctxs&layout=compact&theme=radical)
-</p>
+
 
 <br>
 
